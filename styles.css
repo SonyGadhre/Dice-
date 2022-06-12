@@ -1,0 +1,27 @@
+
+body{
+  margin:0;
+  background-color: #0F044C;
+  text-align: center;
+}
+h1,p{
+  margin: 20px auto 30px auto;
+  padding-top:10px;
+  color:#A6B1E1;
+  font-family: 'Dancing Script', cursive;
+}
+.refresh{
+  font-size: 4rem;
+}
+.players{
+  display:inline-block;
+  font-size:2rem;
+}
+h3{
+  font-size: 1.25rem;
+  color: white;
+  font-family: 'Caveat', cursive;
+}
+.dice{
+  padding:20px;
+}
